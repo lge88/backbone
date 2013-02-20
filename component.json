@@ -1,0 +1,15 @@
+{
+  "name": "backbone",
+  "repo": "lge88/backbone",
+  "description": "backbone",
+  "version": "0.9.10",
+  "keywords": [],
+  "dependencies": {
+    "component/underscore": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
