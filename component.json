@@ -10,6 +10,6 @@
   "development": {},
   "license": "MIT",
   "scripts": [
-    "index.js"
+    "backbone.js"
   ]
 }
