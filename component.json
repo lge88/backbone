@@ -5,10 +5,11 @@
   "version": "0.9.10",
   "keywords": [],
   "dependencies": {
-    "component/underscore": "*"
+    "lge88/underscore": "*"
   },
   "development": {},
   "license": "MIT",
+  "upstream": "git://github.com/documentcloud/backbone.git",
   "scripts": [
     "backbone.js"
   ]
