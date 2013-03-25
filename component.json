@@ -2,15 +2,16 @@
   "name": "backbone",
   "repo": "lge88/backbone",
   "description": "backbone",
-  "version": "0.9.10",
+  "version": "1.0.0",
   "keywords": [],
   "dependencies": {
-    "lge88/underscore": "*"
+    "lge88/underscore": ">=1.4.3"
   },
   "development": {},
   "license": "MIT",
   "upstream": "git://github.com/documentcloud/backbone.git",
   "scripts": [
     "backbone.js"
-  ]
+  ],
+  "main": "backbone.js"
 }
