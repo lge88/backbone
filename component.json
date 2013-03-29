@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "keywords": [],
   "dependencies": {
-    "lge88/underscore": "1.4.3"
+    "lge88/underscore": "*"
   },
   "development": {},
   "license": "MIT",
